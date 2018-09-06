@@ -131,5 +131,5 @@ Nightmare
 
 console.log('entry submitted, restarting!')
 
-##somehow loop this shit##
+/* add a loop */
 
